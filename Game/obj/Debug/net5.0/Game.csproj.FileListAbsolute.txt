@@ -1,0 +1,16 @@
+C:\Users\Eigenaar\source\repos\Game\Game\bin\Debug\net5.0\Game.exe
+C:\Users\Eigenaar\source\repos\Game\Game\bin\Debug\net5.0\Game.deps.json
+C:\Users\Eigenaar\source\repos\Game\Game\bin\Debug\net5.0\Game.runtimeconfig.json
+C:\Users\Eigenaar\source\repos\Game\Game\bin\Debug\net5.0\Game.runtimeconfig.dev.json
+C:\Users\Eigenaar\source\repos\Game\Game\bin\Debug\net5.0\Game.dll
+C:\Users\Eigenaar\source\repos\Game\Game\bin\Debug\net5.0\ref\Game.dll
+C:\Users\Eigenaar\source\repos\Game\Game\bin\Debug\net5.0\Game.pdb
+C:\Users\Eigenaar\source\repos\Game\Game\obj\Debug\net5.0\Game.csprojAssemblyReference.cache
+C:\Users\Eigenaar\source\repos\Game\Game\obj\Debug\net5.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\source\repos\Game\Game\obj\Debug\net5.0\Game.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\source\repos\Game\Game\obj\Debug\net5.0\Game.AssemblyInfo.cs
+C:\Users\Eigenaar\source\repos\Game\Game\obj\Debug\net5.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\source\repos\Game\Game\obj\Debug\net5.0\Game.dll
+C:\Users\Eigenaar\source\repos\Game\Game\obj\Debug\net5.0\ref\Game.dll
+C:\Users\Eigenaar\source\repos\Game\Game\obj\Debug\net5.0\Game.pdb
+C:\Users\Eigenaar\source\repos\Game\Game\obj\Debug\net5.0\Game.genruntimeconfig.cache
